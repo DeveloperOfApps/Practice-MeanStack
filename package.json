@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "Mean stcak whit angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperOfApps/Practice-MeanStack.git"
+  },
+  "keywords": [
+    "Mean",
+    "angular2"
+  ],
+  "author": "Efrain Rebolledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperOfApps/Practice-MeanStack/issues"
+  },
+  "homepage": "https://github.com/DeveloperOfApps/Practice-MeanStack#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}
